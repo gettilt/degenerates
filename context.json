@@ -1,0 +1,444 @@
+{
+    "CRSR": {
+        "chat_gpt": "Corsair Gaming provides gaming peripherals and streaming equipment, indirectly benefiting from the increased interest in online gaming and gambling.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "CZR": {
+        "chat_gpt": "Caesars Entertainment is a major player in the casino and online gambling industry, benefiting directly from the rise in mobile gambling.",
+        "claude": "Caesars Entertainment, another major casino operator, has been expanding its online gambling and sports betting offerings through strategic partnerships and acquisitions.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/casino-stocks/",
+                "title": "Casino Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/communication/entertainment-stocks/sports-betting-stocks/",
+                "title": "7 Best Sports Betting Stocks for 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/should-you-bet-online-gambling-stocks-now-2",
+                "title": "Should You Bet on Online Gambling Stocks Now?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "DKNG": {
+        "chat_gpt": "DraftKings is a leading player in the online sports betting and fantasy sports market, directly benefiting from increased gambling activities.",
+        "claude": "DraftKings is a pure-play online sports betting and gaming company, poised to capitalize on the expanding legalization of sports betting across the US.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/casino-stocks/",
+                "title": "Casino Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/communication/entertainment-stocks/sports-betting-stocks/",
+                "title": "7 Best Sports Betting Stocks for 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/2024/04/03/3-sports-betting-stocks-im-watching/",
+                "title": "3 Sports Betting Stocks I'm Watching",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Stocktwits/status/1757157515920388535",
+                "text": "It's the Super Bowl of earnings week for the degen economy, here are the 1-year performance of the top names reporting this week ranked from best to worst:\n\n1. $DKNG +170%, reports on Thursday https://t.co/v31UHQ0smg",
+                "username": "Stocktwits",
+                "user_url": "https://twitter.com/Stocktwits",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1464337316965720069/bZ4-cEg3_normal.jpg",
+                "date": "2024-02-12T21:39:32Z"
+            },
+            {
+                "url": "https://twitter.com/HedgeyeGLL/status/1773320194816921807",
+                "text": "If you had questions on $DKNG... Please review my comments from The Call just now and if you sub to our work, check your inbox.  We show all our work in the note and provide an update on industry trends. \n\n@Hedgeye \n@KeithMcCullough",
+                "username": "HedgeyeGLL",
+                "user_url": "https://twitter.com/HedgeyeGLL",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1506628725030502406/dXIJ81UW_normal.jpg",
+                "date": "2024-03-28T12:04:15Z"
+            },
+            {
+                "url": "https://twitter.com/MikeDzikowski/status/1774828784228700338",
+                "text": "Next Earnings Call - Cliff Notes $DKNG \n\nAnalysts: How does @DraftKings expect to make a profit when so many states are looking at raising taxes and there are talks of increasing federal regulations on the industry?\n\nJR: Yeah. It's a great question. I mean, we are always reevaluating every time we have new tax rates discussed at the state level or regulations come up at the federal level, on how we can further push parlay mix onto our customers. The states are expecting tax revenue, and they are finally realizing that isn\u2019t the reality. So, we must figure out a way to trick shareholders and analysts like yourself into believing that we can actually turn a profit once more and more states try to get to a 51% tax rate like New York. If we can continue to purchase apps like Jackpocket, that might help distract everyone for the time being. That\u2019s why we had @GazipuraMo  start the rumor about the merger of Rush Street. And then, I\u2019m sorry what was the second part of the question? Regulations. So, regulations, yeah, that\u2019s a good question. If we get regulated more, again, we\u2019ll just hope to push more parlay mix and that\u2019s definitely something that we're exploring, because what else can we do? But we don't put hope in the guide.",
+                "username": "MikeDzikowski",
+                "user_url": "https://twitter.com/MikeDzikowski",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1467118612964069381/DJp6jF3X_normal.jpg",
+                "date": "2024-04-01T15:58:51Z"
+            }
+        ]
+    },
+    "GOOGL": {
+        "chat_gpt": "Alphabet benefits indirectly through its Google Play Store, which hosts a variety of gambling and betting apps, generating revenue from app sales and ads.",
+        "claude": "Alphabet's Google Play Store is another key platform for mobile apps, including those related to gambling and investing, generating revenue through app sales and in-app purchases.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "LVS": {
+        "chat_gpt": "Las Vegas Sands is a major casino operator with a growing online presence, benefiting from the trend towards mobile gambling.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/casino-stocks/",
+                "title": "Casino Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/casino-stocks/",
+                "title": "Compare Casino Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "MA": {
+        "chat_gpt": "Mastercard benefits indirectly from the trend as higher gambling activities increase transaction volumes on its network.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "MGM": {
+        "chat_gpt": "MGM Resorts International has a strong presence in both physical casinos and online sports betting, positioning it well to gain from increased gambling.",
+        "claude": "MGM Resorts International, a major casino operator, has been investing in its online gambling and sports betting platforms to capture the shift towards mobile gaming.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/casino-stocks/",
+                "title": "Casino Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/casino-stocks/",
+                "title": "Compare Casino Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft, through its Xbox platform and cloud services, indirectly benefits from the increased engagement in online gaming and gambling.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "PENN": {
+        "chat_gpt": "Penn National Gaming operates casinos and racetracks, and has a significant online presence through its Barstool Sportsbook, making it a direct beneficiary of the trend.",
+        "claude": "Penn National Gaming is a leading operator of casinos and racetracks, well-positioned to benefit from the growth of online gambling and sports betting.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/casino-stocks/",
+                "title": "Casino Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/casino-stocks/",
+                "title": "Compare Casino Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/WallStBreakfast/status/1778483687723516041",
+                "text": "The #Masters could boost stocks in the #golf industry, such as Topgolf, Callaway Brands and Acushnet Holdings. $MODG $GOLF\n\nCasino and gaming stocks, including DraftKings, $PENN Entertainment, and Las Vegas Sands, could also benefit. $DKNG $LVS\nhttps://t.co/J7OR7js3YD",
+                "username": "WallStBreakfast",
+                "user_url": "https://twitter.com/WallStBreakfast",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1535152340356980736/XyRlxfgt_normal.jpg",
+                "date": "2024-04-11T18:02:08Z"
+            },
+            {
+                "url": "https://twitter.com/CapitalSaturn/status/1770103175347089440",
+                "text": "Handsomely looking at the casinos &amp; Gaming sector which seemed highly priced on a P/E metric $LVS $DKNG $MGN $WYNN $LNW $CZR $PENN https://t.co/JeEs1OSKa1",
+                "username": "CapitalSaturn",
+                "user_url": "https://twitter.com/CapitalSaturn",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1767502539807760384/zHj_ovWY_normal.jpg",
+                "date": "2024-03-19T15:00:58Z"
+            },
+            {
+                "url": "https://twitter.com/Investlongshort/status/1787669500592271541",
+                "text": "$DKNG and $FLUT are doing well. $PENN on the other hand continues to be the biggest garbage in the sector. Time to replace board and management. https://t.co/30g76IP22h",
+                "username": "Investlongshort",
+                "user_url": "https://twitter.com/Investlongshort",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1298888951034306560/O9Srtc2z_normal.jpg",
+                "date": "2024-05-07T02:23:16Z"
+            }
+        ]
+    },
+    "RSI": {
+        "chat_gpt": "Rush Street Interactive operates online casinos and sports betting platforms, directly benefiting from the rise in mobile gambling.",
+        "claude": "Rush Street Interactive is an online casino and sports betting company, focusing on regulated markets in the US and Latin America.",
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/5321-online-casino",
+                "title": "Online Casino Stocks List Ranked for 2024 | NYSE",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/MichaelKitara/status/1769941514673647748",
+                "text": "@phil_hellmuth is giving off sportsbook vibes. Time to do some major due diligence on this industry. $GENI $RSI $DKNG https://t.co/a7k0ZgJq9g",
+                "username": "MichaelKitara",
+                "user_url": "https://twitter.com/MichaelKitara",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776293887335628801/xof5k8-H_normal.jpg",
+                "date": "2024-03-19T04:18:35Z"
+            },
+            {
+                "url": "https://twitter.com/MichaelKitara/status/1788959467607908381",
+                "text": "This industry needs patient capital allocation. $SRAD $DKNG $RSI $GENI https://t.co/cITqEAVSPT",
+                "username": "MichaelKitara",
+                "user_url": "https://twitter.com/MichaelKitara",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1783531286579105792/qH_RwZGK_normal.jpg",
+                "date": "2024-05-10T15:49:08Z"
+            },
+            {
+                "url": "https://twitter.com/Blackmrphophet/status/1771138363518533693",
+                "text": "@stevebrubaker Referring to $DKNG latest published balance sheet, if they were to buy $RSI, it is likely the transaction would consist of issuing shares and little cash allocation. The volatility in DK stock price &amp; uncertainty in the sector, Rush management would be wise to seek a cash deal.",
+                "username": "Blackmrphophet",
+                "user_url": "https://twitter.com/Blackmrphophet",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1580273195646652421/5lNaXk90_normal.jpg",
+                "date": "2024-03-22T11:34:26Z"
+            }
+        ]
+    },
+    "SQ": {
+        "chat_gpt": "Square, through its Cash App, facilitates transactions for gambling and betting, indirectly benefiting from the trend.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "V": {
+        "chat_gpt": "Visa benefits indirectly as increased gambling activities lead to higher transaction volumes on its payment network.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "WYNN": {
+        "chat_gpt": "Wynn Resorts operates high-end casinos and has expanded into online sports betting, making it a direct beneficiary of increased gambling activities.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/casino-stocks/",
+                "title": "Casino Stocks to Consider in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/casino-stocks/",
+                "title": "Compare Casino Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "ABNB": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FormFore/status/1760008668001521863",
+                "text": "These 4 corporate insiders from the Consumer Cyclical Sector sold the most stock for the week ending 2024-02-09:\n    \nBezos Jeffrey P | $AMZN ($4,121,371,153)\nSaville Paul C | $NVR ($39,178,526)\nDodge R Stanton | $DKNG ($29,543,509)\nChesky Brian | $ABNB ($22,132,442)",
+                "username": "FormFore",
+                "user_url": "https://twitter.com/FormFore",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1571241569474183169/wkusRnHY_normal.jpg",
+                "date": "2024-02-20T18:29:00Z"
+            },
+            {
+                "url": "https://twitter.com/FormFore/status/1757510459362627951",
+                "text": "These 4 corporate insiders from the Consumer Cyclical Sector sold the most stock for the week ending 2024-02-02:\n    \nLiberman Paul | $DKNG ($20,400,000)\nBlecharczyk Nathan | $ABNB ($8,794,939)\nNiccol Brian R | $CMG ($4,790,224)\nDrosos Virginia | $SIG ($4,464,270)",
+                "username": "FormFore",
+                "user_url": "https://twitter.com/FormFore",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1571241569474183169/wkusRnHY_normal.jpg",
+                "date": "2024-02-13T21:02:01Z"
+            },
+            {
+                "url": "https://twitter.com/FormFore/status/1757471955878310029",
+                "text": "Through 2024-02-02, these are the 3 largest individual insider sales in the Consumer Cyclical Sector:\n\n$DKNG, $20,400,000 by Liberman Paul, 2024-01-29\n$ABNB, $8,794,939 by Blecharczyk Nathan, 2024-01-31\n$CMG, $4,790,224 by Niccol Brian R, 2024-01-29",
+                "username": "FormFore",
+                "user_url": "https://twitter.com/FormFore",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1571241569474183169/wkusRnHY_normal.jpg",
+                "date": "2024-02-13T18:29:01Z"
+            }
+        ]
+    },
+    "FLUT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/2024/04/03/3-sports-betting-stocks-im-watching/",
+                "title": "3 Sports Betting Stocks I'm Watching",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.morningstar.com/stocks/should-you-bet-online-gambling-stocks-now-2",
+                "title": "Should You Bet on Online Gambling Stocks Now?",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/13700-sports-betting",
+                "title": "Sports Betting Stocks List Ranked for 2024 | NYSE",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/cupofcoffeecap/status/1790187978108858434",
+                "text": "Does anybody know of any good write-ups on $DKNG, $FLUT or $GENI? As well as any other tangentially associated write-ups, such as other names or just the industry as a whole?",
+                "username": "cupofcoffeecap",
+                "user_url": "https://twitter.com/cupofcoffeecap",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1655349058389651458/C809rFY5_normal.jpg",
+                "date": "2024-05-14T01:10:48Z"
+            },
+            {
+                "url": "https://twitter.com/Investlongshort/status/1787669500592271541",
+                "text": "$DKNG and $FLUT are doing well. $PENN on the other hand continues to be the biggest garbage in the sector. Time to replace board and management. https://t.co/30g76IP22h",
+                "username": "Investlongshort",
+                "user_url": "https://twitter.com/Investlongshort",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1298888951034306560/O9Srtc2z_normal.jpg",
+                "date": "2024-05-07T02:23:16Z"
+            },
+            {
+                "url": "https://twitter.com/Blackmrphophet/status/1754636566113161697",
+                "text": "@AlTruda73 @stevebrubaker @MikeDzikowski @MindfulTrad3R @astraffon @GazipuraMo Per the article, In the long-run, it is possible both $FLUT (FD) &amp; $DKNG will face both cannibalization &amp; gross margins compression. If the market leaders hold rate fall below targets, new competition have strong cash on the balance sheet to disrupt both the OSB &amp; iGaming sector",
+                "username": "Blackmrphophet",
+                "user_url": "https://twitter.com/Blackmrphophet",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1580273195646652421/5lNaXk90_normal.jpg",
+                "date": "2024-02-05T22:42:11Z"
+            }
+        ]
+    },
+    "GENI": {
+        "chat_gpt": null,
+        "claude": "Genius Sports provides data and technology services to sports leagues and betting operators, playing a crucial role in the sports betting ecosystem.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/MichaelKitara/status/1769941514673647748",
+                "text": "@phil_hellmuth is giving off sportsbook vibes. Time to do some major due diligence on this industry. $GENI $RSI $DKNG https://t.co/a7k0ZgJq9g",
+                "username": "MichaelKitara",
+                "user_url": "https://twitter.com/MichaelKitara",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776293887335628801/xof5k8-H_normal.jpg",
+                "date": "2024-03-19T04:18:35Z"
+            },
+            {
+                "url": "https://twitter.com/cupofcoffeecap/status/1790187978108858434",
+                "text": "Does anybody know of any good write-ups on $DKNG, $FLUT or $GENI? As well as any other tangentially associated write-ups, such as other names or just the industry as a whole?",
+                "username": "cupofcoffeecap",
+                "user_url": "https://twitter.com/cupofcoffeecap",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1655349058389651458/C809rFY5_normal.jpg",
+                "date": "2024-05-14T01:10:48Z"
+            },
+            {
+                "url": "https://twitter.com/MichaelKitara/status/1788959467607908381",
+                "text": "This industry needs patient capital allocation. $SRAD $DKNG $RSI $GENI https://t.co/cITqEAVSPT",
+                "username": "MichaelKitara",
+                "user_url": "https://twitter.com/MichaelKitara",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1783531286579105792/qH_RwZGK_normal.jpg",
+                "date": "2024-05-10T15:49:08Z"
+            }
+        ]
+    },
+    "BALY": {
+        "chat_gpt": null,
+        "claude": "Bally's Corporation, a regional casino operator, has been acquiring online gaming assets to establish a significant presence in the iGaming and sports betting markets.",
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/casino-stocks/",
+                "title": "Compare Casino Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://stockanalysis.com/stocks/industry/resorts-and-casinos/",
+                "title": "A List of Stocks in the Resorts & Casinos Industry",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "BYD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketbeat.com/compare-stocks/casino-stocks/",
+                "title": "Compare Casino Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://stockanalysis.com/stocks/industry/resorts-and-casinos/",
+                "title": "A List of Stocks in the Resorts & Casinos Industry",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "HOOD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "IGT": {
+        "chat_gpt": null,
+        "claude": "International Game Technology is another leading supplier of gaming machines and lottery systems, with a growing presence in the online gambling market.",
+        "search_articles": [
+            {
+                "url": "https://companiesmarketcap.com/gambling/largest-gambling-companies-by-market-cap/",
+                "title": "Largest gambling companies by market cap",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://swingtradebot.com/stocks-tagged-as/5321-online-casino",
+                "title": "Online Casino Stocks List Ranked for 2024 | NYSE",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CHDN": {
+        "chat_gpt": null,
+        "claude": "Churchill Downs, known for its iconic Kentucky Derby racetrack, has been investing in online horse betting and gaming platforms.",
+        "search_articles": [],
+        "tweets": []
+    }
+}
