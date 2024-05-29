@@ -441,7 +441,7 @@
         "search_articles": [],
         "tweets": []
     },
-    “TKO”: {
+    "TKO": {
         "chat_gpt": null,
         "claude": null,
         "search_articles": [],
@@ -453,7 +453,7 @@
             }
         ]
     },
-    “RACE”: {
+    "RACE": {
         "chat_gpt": null,
         "claude": null,
         "search_articles": [],
@@ -465,7 +465,7 @@
             }
         ]
     },
-    “MANU”: {
+    "MANU": {
         "chat_gpt": null,
         "claude": null,
         "search_articles": [],
@@ -477,7 +477,7 @@
             }
         ]
     },
-    “FWONK”: {
+    "FWONK": {
         "chat_gpt": null,
         "claude": null,
         "search_articles": [],
@@ -489,7 +489,7 @@
             }
         ]
     },
-    “LYV”: {
+    "LYV": {
         "chat_gpt": null,
         "claude": null,
         "search_articles": [],
