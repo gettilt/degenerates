@@ -440,5 +440,65 @@
         "claude": "Churchill Downs, known for its iconic Kentucky Derby racetrack, has been investing in online horse betting and gaming platforms.",
         "search_articles": [],
         "tweets": []
+    },
+    “TKO”: {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Owner of UFC and WWE, benefitting from popularity and gambling associted with all forms of fighting."
+            }
+        ]
+    },
+    “RACE”: {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Most historic sports car company. The goal for degens all over."
+            }
+        ]
+    },
+    “MANU”: {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Most historic club in the most watched sports league. 1bn fans worldwide, 200mm social connections."
+            }
+        ]
+    },
+    “FWONK”: {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Liberty Media is the owner of F1, an incredible management team driving one of the most popular global sports"
+            }
+        ]
+    },
+    “LYV”: {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "Monopoly of ticketing, the unstoppable host of any degen event."
+            }
+        ]
     }
 }
