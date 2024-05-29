@@ -79,6 +79,8 @@ with open('theme.csv') as file:
 | TKO |  | experts |
 | RACE |  | experts |
 | MANU |  | experts |
+| FWONK |  | experts |
+| LYV |  | experts |
 <!--[[[end]]]-->
 
 ## License
