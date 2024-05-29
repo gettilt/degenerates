@@ -76,9 +76,9 @@ with open('theme.csv') as file:
 | HOOD |  | google |
 | IGT | International Game Technology is another leading supplier of gaming machines and lottery systems, with a growing presence in the online gambling market. | google,claude |
 | CHDN | Churchill Downs, known for its iconic Kentucky Derby racetrack, has been investing in online horse betting and gaming platforms. | claude |
-| TKO |  | manual |
-| RACE |  | manual |
-| MANU |  | manual |
+| TKO |  | experts |
+| RACE |  | experts |
+| MANU |  | experts |
 <!--[[[end]]]-->
 
 ## License
