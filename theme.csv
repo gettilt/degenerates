@@ -20,6 +20,6 @@ BYD,google
 HOOD,google
 IGT,"google,claude"
 CHDN,claude
-TKO,manual
-RACE,manual
-MANU,manual
+TKO,experts
+RACE,experts
+MANU,experts
