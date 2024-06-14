@@ -453,18 +453,6 @@
             }
         ]
     },
-    "RACE": {
-        "chat_gpt": null,
-        "claude": null,
-        "search_articles": [],
-        "tweets": [],
-        "experts": [
-            {
-                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
-                "comment": "Most historic sports car company. The goal for degens all over."
-            }
-        ]
-    },
     "MANU": {
         "chat_gpt": null,
         "claude": null,
