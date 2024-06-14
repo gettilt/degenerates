@@ -103,8 +103,8 @@ with open('config.json') as file:
   cog.outl(f'  <img src="https://contrib.rocks/image?repo=gettilt/{repo}" />')
   cog.outl('</a>')
 ]]]-->
-<a href="https://github.com/gettilt/degen/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gettilt/degen" />
+<a href="https://github.com/gettilt/degenerates/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gettilt/degenerates" />
 </a>
 <!--[[[end]]]-->
 
